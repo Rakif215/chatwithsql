@@ -37,7 +37,7 @@ ChatWithSQL is an interactive Streamlit application that allows users to query a
 
 1. Start the Streamlit application:
    ```
-   streamlit run app.py
+   streamlit run src/app.py
    ```
 
 2. Open your web browser and navigate to the URL provided by Streamlit (usually `http://localhost:8501`).
