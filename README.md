@@ -18,7 +18,7 @@ ChatWithSQL is an interactive Streamlit application that allows users to query a
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/chatwithsql.git
+   git clone https://github.com/Rakif215/chatwithsql.git
    cd chatwithsql
    ```
 
